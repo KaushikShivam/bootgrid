@@ -1,0 +1,22 @@
+{
+  "name": "custom-12-col-grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaushikShivam/custom-12-col-grid.git"
+  },
+  "author": "Shivam Kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaushikShivam/custom-12-col-grid/issues"
+  },
+  "homepage": "https://github.com/KaushikShivam/custom-12-col-grid#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
