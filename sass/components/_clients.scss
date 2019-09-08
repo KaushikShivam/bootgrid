@@ -1,9 +1,0 @@
-.clients {
-
-    &__item {
-
-        @include respond(large) {
-            margin-bottom: 3rem;
-          }
-    }
-}
