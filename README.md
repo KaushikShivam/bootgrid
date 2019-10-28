@@ -121,7 +121,7 @@ Please look at ```utls/_display.scss``` to know more
 
 1. Clone the project to your local directory
 ```
-git clone https://github.com/KaushikShivam/Nexter.git
+git clone https://github.com/KaushikShivam/bootgrid.git
 ```
 
 2. The project uses NPM for managing dependencies. Run npm install to install all the required dependencies
