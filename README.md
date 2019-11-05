@@ -113,7 +113,7 @@ Please look at ```utls/_display.scss``` to know more
   - For padding left - ```pl-1``` ... ```pl-12```
   - For padding right - ```pr-1``` ... ```pr-12```
   - For padding top - ```pt-1``` ... ```pt-12```
-  - For padding bottom - ```pb-1``` ... ```pb-12``
+  - For padding bottom - ```pb-1``` ... ```pb-12```
   - For padding top and bottom, there is a helper: ```py-1```...```py-12```
   - For padding left and right, there is a helper: ```px-1```...```px-12``` 
 
