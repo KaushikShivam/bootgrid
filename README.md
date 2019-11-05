@@ -103,7 +103,7 @@ Please look at ```utls/_display.scss``` to know more
   - For margin left - ```ml-1``` ... ```ml-12```
   - For margin right - ```mr-1``` ... ```mr-12```
   - For margin top - ```mt-1``` ... ```mt-12```
-  - For margin bottom - ```mb-1``` ... ```mb-12``
+  - For margin bottom - ```mb-1``` ... ```mb-12```
   - For margin top and bottom, there is a helper: ```my-1```...```my-12```
   - For margin left and right, there is a helper: ```mx-1```...```mx-12```
 
